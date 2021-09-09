@@ -15,6 +15,13 @@
             <description><![CDATA[This release contains some features and bugfixes, and all the existing functionalities are compatible with Apache APISIX 2.9.]]></description>
         </item>
         <item>
+            <title><![CDATA[Release Apache APISIX Python Plugin Runner 0.1.0]]></title>
+            <link>https://apisix.apache.org/zh/releases/2021/09/06/release-apache-apisix-python-plugin-runner-0.1.0</link>
+            <guid>Release Apache APISIX Python Plugin Runner 0.1.0</guid>
+            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This release mainly provides basic features and adds test cases.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Release Apache APISIX Go Plugin Runner 0.2.0]]></title>
             <link>https://apisix.apache.org/zh/releases/2021/09/03/release-apache-apisix-go-plugin-runner-0.2.0</link>
             <guid>Release Apache APISIX Go Plugin Runner 0.2.0</guid>
