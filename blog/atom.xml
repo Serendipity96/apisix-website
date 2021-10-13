@@ -2,67 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apisix.apache.org/blog</id>
     <title>Apache APISIX® --  Cloud-Native API Gateway Blog</title>
-    <updated>2021-10-09T00:00:00.000Z</updated>
+    <updated>2021-09-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://apisix.apache.org/blog"/>
     <subtitle>Apache APISIX® --  Cloud-Native API Gateway Blog</subtitle>
     <icon>https://apisix.apache.org/img/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress]]></title>
-        <id>保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress</id>
-        <link href="https://apisix.apache.org/blog/2021/10/09/apisix-ingress-techblog"/>
-        <updated>2021-10-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文从理论和实践两个角度，对 Apache APISIX Ingress 进行了详细的描述与讲解]]></summary>
-        <author>
-            <name>张晋涛</name>
-            <uri>https://github.com/tao12345666333</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache APISIX 社区成员助力 openEuler 发布第一个社区创新版]]></title>
-        <id>Apache APISIX 社区成员助力 openEuler 发布第一个社区创新版</id>
-        <link href="https://apisix.apache.org/blog/2021/10/01/openEuler"/>
-        <updated>2021-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[来自 Apache APISIX 社区的罗泽轩和温铭在 openEuler 9 月 30 日发布的第一个社区创新版（ openEuler 21.09）中，为 OpenResty 迁移工作中做了非常多的贡献，让 OpenResty 可以在欧拉开源操作系统上平稳高效的运行。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区周报｜新晋 committer 一位，功能亮点更新进行中]]></title>
-        <id>社区周报｜新晋 committer 一位，功能亮点更新进行中</id>
-        <link href="https://apisix.apache.org/blog/2021/09/30/weekly-report"/>
-        <updated>2021-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Apache APISIX 2.10.0]]></title>
-        <id>Release Apache APISIX 2.10.0</id>
-        <link href="https://apisix.apache.org/blog/2021/09/29/release-apache-apisix-2.10"/>
-        <updated>2021-09-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apache APISIX 2.10.0 is released! This is the first LTS release of Apache APISIX.]]></summary>
-        <author>
-            <name>Zexuan Luo</name>
-            <uri>https://github.com/spacewander</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百万级 QPS 业务新宠，金山办公携手 Apache APISIX 打造网关实践新体验]]></title>
-        <id>百万级 QPS 业务新宠，金山办公携手 Apache APISIX 打造网关实践新体验</id>
-        <link href="https://apisix.apache.org/blog/2021/09/28/WPS-usercase"/>
-        <updated>2021-09-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文介绍了金山办公如何使用 Apache APISIX 应对百万级 QPS 业务，同时基于 Apache APISIX 更新与改进网关实践层面的内容。]]></summary>
-        <author>
-            <name>张强</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache APISIX Ingress 为何成为又拍云打造容器网关的新选择？]]></title>
-        <id>Apache APISIX Ingress 为何成为又拍云打造容器网关的新选择？</id>
-        <link href="https://apisix.apache.org/blog/2021/09/24/youpaicloud-usercase"/>
-        <updated>2021-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文介绍了又拍云选择 Apache APISIX Ingress 后所带来公司内部网关架构的更新与调整，同时分享了在使用过程中的一些实践场景介绍。]]></summary>
-        <author>
-            <name>陈卓</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Apache APISIX 助力便利充电创领者小电，实现云原生方案]]></title>
         <id>Apache APISIX 助力便利充电创领者小电，实现云原生方案</id>
@@ -101,13 +45,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Apache APISIX is implemented in China Mobile Cloud]]></title>
-        <id>How Apache APISIX is implemented in China Mobile Cloud</id>
+        <title type="html"><![CDATA[纵观移动云对象存储发展历程，也少不了 Apache APISIX 的能力加持]]></title>
+        <id>纵观移动云对象存储发展历程，也少不了 Apache APISIX 的能力加持</id>
         <link href="https://apisix.apache.org/blog/2021/09/13/china-mobile-cloud-usercase"/>
         <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is compiled from a presentation given by Yanshan Chen from China Mobile Cloud Competence Center at ApacheCon 2021 Asia. By reading this article, you can learn how China Mobile Cloud is developing and improving and updating its products based on Apache APISIX to create a better mobile cloud object storage.]]></summary>
+        <summary type="html"><![CDATA[本文整理自中国移动云能力中心陈焱山在 ApacheCon 2021 亚洲站的演讲，通过阅读本文，您可以了解到中国移动云是如何基于 Apache APISIX 进行产品的开发和功能改进与更新，打造出更完善的移动云对象存储。]]></summary>
         <author>
-            <name>Yanshan Chen</name>
+            <name>陈焱山</name>
         </author>
     </entry>
     <entry>
@@ -175,20 +119,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache APISIX 社区周报 ｜ 2021 8.23-8.29]]></title>
-        <id>Apache APISIX 社区周报 ｜ 2021 8.23-8.29</id>
-        <link href="https://apisix.apache.org/blog/2021/08/30/weekly-report"/>
-        <updated>2021-08-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Apache APISIX 2.9]]></title>
-        <id>Release Apache APISIX 2.9</id>
+        <title type="html"><![CDATA[Apache APISIX 2.9 正式发布，带来更多新功能！]]></title>
+        <id>Apache APISIX 2.9 正式发布，带来更多新功能！</id>
         <link href="https://apisix.apache.org/blog/2021/08/27/release-apache-apisix-2.9"/>
         <updated>2021-08-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apache APISIX version 2.9 is released!]]></summary>
+        <summary type="html"><![CDATA[Apache APISIX 2.9 版本正式发布！该版本新增了 2 个新功能，进一步完善了对插件的支持。]]></summary>
         <author>
-            <name>Zexuan Luo</name>
+            <name>罗泽轩</name>
             <uri>https://github.com/spacewander</uri>
         </author>
     </entry>
@@ -207,7 +144,7 @@
         <id>使用 Apache APISIX 的 OpenID Connect 插件进行集中身份认证</id>
         <link href="https://apisix.apache.org/blog/2021/08/25/Using-the-Apache-APISIX-OpenID-Connect-Plugin-for-Centralized-Authentication"/>
         <updated>2021-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文展示了使用 Apache APISIX OpenID Connect Plugin 进行 Okta 集中认证的过程。 本文包含了对 Apache APISIX 和 Okta 集中认证的概念介绍，展示了在 Apache APISIX 中直接建立来自 Okta 的集中式身份认证的过程。这种集中认证的方法减少了开发者的学习和维护成本，提供了安全和精简的用户体验。]]></summary>
+        <summary type="html"><![CDATA[本文展示了使用 Apache APISIX OpenID Connect Plugin 进行 Okta 集中认证的过程。 本文包含了对Apache APISIX 和 Okta 集中认证的概念介绍，展示了在 Apache APISIX 中直接建立来自 Okta 的集中式身份认证的过程。这种集中认证的方法减少了开发者的学习和维护成本，提供了安全和精简的用户体验。]]></summary>
         <author>
             <name>朱欣欣</name>
             <uri>https://github.com/starsz</uri>
@@ -235,27 +172,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ApacheCon Asia 2021]]></title>
-        <id>ApacheCon Asia 2021</id>
-        <link href="https://apisix.apache.org/blog/2021/08/23/ApacheCon-Asia-2021"/>
-        <updated>2021-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ApacheCon 是 Apache 软件基金会的官方全球系列会议。自 1998 年以来，ApacheCon 一直吸引着各个层次的参与者，在 350 多个 Apache 项目及其不同的社区中探索 “明日的技术”。ApacheCon Asia 是 ApacheCon 组委会针对亚太地区举办的 ApacheCon 在线会议，主要目标在于更好地服务亚太地区快速增长的 Apache 用户和贡献者。ApacheCon Asia 2021 于 2021 年 8 月 6-8 日在线举办。Apache APISIX 社区积极参与本次年度开源盛会，共提报了 8 个 API/微服务技术相关的议题，内容丰富。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache APISIX 社区周报 ｜ 2021 8.16-8.22]]></title>
-        <id>Apache APISIX 社区周报 ｜ 2021 8.16-8.22</id>
-        <link href="https://apisix.apache.org/blog/2021/08/23/weekly-report"/>
-        <updated>2021-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 月 21 日 Apache APISIX Meetup 上海站，欢迎报名参加！]]></title>
-        <id>8 月 21 日 Apache APISIX Meetup 上海站，欢迎报名参加！</id>
-        <link href="https://apisix.apache.org/blog/2021/08/21/shanghai-meetup"/>
-        <updated>2021-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本次 Meetup 由 api7.ai https://www.apiseven.com/ 发起，并邀请爱奇艺、空中云汇等合作伙伴共同为大家呈现。Apache APISIX PMC 成员、贡献者、社区技术专家汇聚一堂，共同探讨 Apache APISIX 社区发展、行业实践等话题。]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go 让 Apache APISIX 如虎添翼]]></title>
         <id>Go 让 Apache APISIX 如虎添翼</id>
         <link href="https://apisix.apache.org/blog/2021/08/19/go-makes-Apache-APISIX-better"/>
@@ -265,13 +181,6 @@
             <name>罗泽轩</name>
             <uri>https://github.com/spacewander</uri>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache APISIX 社区周报 ｜ 08-09 ～ 08-15]]></title>
-        <id>Apache APISIX 社区周报 ｜ 08-09 ～ 08-15</id>
-        <link href="https://apisix.apache.org/blog/2021/08/19/weekly-report"/>
-        <updated>2021-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[在 Apache APISIX 中使用 Casbin 进行授权]]></title>
@@ -307,12 +216,23 @@
     <entry>
         <title type="html"><![CDATA[Contributors — The Golden Metric of OpenSource Projects]]></title>
         <id>Contributors — The Golden Metric of OpenSource Projects</id>
-        <link href="https://apisix.apache.org/blog/2021/08/14/contributors-the-golden-metric-of-openSource-projects"/>
+        <link href="https://apisix.apache.org/blog/2021/08/14/contributors-the-golden-metric-of-openSource-projects-en"/>
         <updated>2021-08-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This article explains why changes in the number of contributors is the golden metric for measuring open source projects. While GitHub already has a number of metrics, such as Star count, Issue count, and PR count, none of these metrics can visually reflect the trends and activity of an open source project over time. So Yiyiyimu proposed new metrics, such as contributor growth and monthly active contributors, and created an open-source tool called the Contributor Graph that allows GitHub users to use these metrics to identify how active a project is. Currently, the Contributor Graph is used in many other used in open source projects.]]></summary>
         <author>
             <name>Lien</name>
             <uri>https://github.com/lilien1010</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贡献者，是衡量开源项目的金指标]]></title>
+        <id>贡献者，是衡量开源项目的金指标</id>
+        <link href="https://apisix.apache.org/blog/2021/08/14/contributors-the-golden-metric-of-openSource-projects"/>
+        <updated>2021-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文讲述了为什么贡献者数量变化是衡量开源项目的金指标。虽然 GitHub 已有的指标数量很多，例如 Star 数、Issue 数量和 PR 数量，但是这些指标都不能直观地反映出一个开源项目在一段时间内的变化趋势和活跃度。所以笔者 Yiyiyimu 提出了新的指标：贡献者增长和月度活跃贡献者，并创造了一款开源工具，其名为“献者图表”，方便 GitHub 用户使用这些指标来确认项目的活跃度。目前，多个开源项目已经在使用贡献者图表。]]></summary>
+        <author>
+            <name>吴舒旸</name>
+            <uri>https://github.com/Yiyiyimu</uri>
         </author>
     </entry>
     <entry>
@@ -342,7 +262,7 @@
         <id>Apache APISIX 架构分析：如何动态管理 Nginx 集群？</id>
         <link href="https://apisix.apache.org/blog/2021/08/10/apisix-nginx"/>
         <updated>2021-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文转发自陶辉个人博客，主要介绍了基于 APISIX 2.8 版本、OpenResty 1.19.3.2 版本以及 Nginx 1.19.3 版本进行 Apache APISIX 实现 REST API 远程控制 Nginx 集群的原理讲解。]]></summary>
+        <summary type="html"><![CDATA[本文转发自陶辉个人博客，主要介绍了基于APISIX 2.8 版本、OpenResty 1.19.3.2 版本以及 Nginx 1.19.3 版本进行 Apache APISIX 实现 REST API 远程控制 Nginx 集群的原理讲解。]]></summary>
         <author>
             <name>陶辉</name>
         </author>
@@ -392,12 +312,23 @@
     <entry>
         <title type="html"><![CDATA[Release Apache APISIX 2.8.0]]></title>
         <id>Release Apache APISIX 2.8.0</id>
-        <link href="https://apisix.apache.org/blog/2021/07/28/release-apache-apisix-2.8"/>
+        <link href="https://apisix.apache.org/blog/2021/07/28/release-apache-apisix-2.8-en"/>
         <updated>2021-07-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apache APISIX version 2.8 is released!]]></summary>
         <author>
-            <name>Ruofei Zhao</name>
+            <name>赵若妃</name>
             <uri>https://github.com/Serendipity96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 2.8 正式发布，带来更多新功能！]]></title>
+        <id>Apache APISIX 2.8 正式发布，带来更多新功能！</id>
+        <link href="https://apisix.apache.org/blog/2021/07/28/release-apache-apisix-2.8"/>
+        <updated>2021-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache APISIX 2.8 版本正式发布！]]></summary>
+        <author>
+            <name>罗泽轩</name>
+            <uri>https://github.com/spacewander</uri>
         </author>
     </entry>
     <entry>
@@ -432,6 +363,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[深度剖析 Apache APISIX Mesh Agent]]></title>
+        <id>深度剖析 Apache APISIX Mesh Agent</id>
+        <link href="https://apisix.apache.org/blog/2021/07/16/Analyze-Apache-APISIX-Mesh-Agent-deeply"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[支流科技推出了基于Apache APISIX的服务网格方案，其中Apache APISIX作为服务网格的数据面，与支持xDS协议的控制面配合，进而托管服务间的流量。在该方案中有一个不可或缺的组件apisix-mesh-agent，它作为数据面与控制面的中间层，完成了很多适配性的工作，进而让 Apache APISIX 在接近零改造的情况下即可完美地工作在服务网格中。]]></summary>
+        <author>
+            <name>张超</name>
+            <uri>https://github.com/tokers</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[基于 Apache APISIX，新浪微博 API 网关的定制化开发之路]]></title>
         <id>基于 Apache APISIX，新浪微博 API 网关的定制化开发之路</id>
         <link href="https://apisix.apache.org/blog/2021/07/14/the-road-to-customization-of-Sina-Weibo-API-gateway-based-on-Apache-APISIX"/>
@@ -448,7 +390,7 @@
         <updated>2021-07-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apache APISIX has over 200 contributors in GitHub main repo!]]></summary>
         <author>
-            <name>Ruofei Zhao</name>
+            <name>赵若妃</name>
             <uri>https://github.com/Serendipity96</uri>
         </author>
     </entry>
@@ -466,12 +408,23 @@
     <entry>
         <title type="html"><![CDATA[Release Apache APISIX 2.7.0]]></title>
         <id>Release Apache APISIX 2.7.0</id>
-        <link href="https://apisix.apache.org/blog/2021/06/29/release-apache-apisix-2.7"/>
+        <link href="https://apisix.apache.org/blog/2021/06/29/release-apache-apisix-2.7-en"/>
         <updated>2021-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apache APISIX 2.7.0 has been released!]]></summary>
         <author>
-            <name>Ruofei Zhao</name>
+            <name>赵若妃</name>
             <uri>https://github.com/Serendipity96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 2.7.0-Release 正式发布]]></title>
+        <id>Apache APISIX 2.7.0-Release 正式发布</id>
+        <link href="https://apisix.apache.org/blog/2021/06/29/release-apache-apisix-2.7"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache APISIX 2.7.0-Release 正式发布！]]></summary>
+        <author>
+            <name>罗泽轩</name>
+            <uri>https://github.com/spacewander</uri>
         </author>
     </entry>
     <entry>
@@ -486,24 +439,24 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deploy Apache APISIX and Apache APISIX Ingress Controller on Rancher]]></title>
-        <id>Deploy Apache APISIX and Apache APISIX Ingress Controller on Rancher</id>
+        <title type="html"><![CDATA[Rancher × Apache APISIX: 极速部署更好用的开源网关和 Ingress Controller]]></title>
+        <id>Rancher × Apache APISIX: 极速部署更好用的开源网关和 Ingress Controller</id>
         <link href="https://apisix.apache.org/blog/2021/06/23/deploy-great-open-source-gateway-and-ingress-controller-fast"/>
         <updated>2021-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article shows the procedure of installing and deploying Apache APISIX and Apache APISIX Ingress Controller in the Rancher App Store (Catalog), and how to proxy Kubernetes services through them.]]></summary>
+        <summary type="html"><![CDATA[你可以在 Rancher 中使用 Apache APISIX 的官方 Helm 仓库直接部署 Apache APISIX 和 APISIX Ingress controller。并且 Apache APISIX 可通过作为网关，或者 APISIX Ingress controller 的数据面来承载业务流量。]]></summary>
         <author>
-            <name>Jintao Zhang</name>
+            <name>张晋涛</name>
             <uri>https://github.com/tao12345666333</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write an Apache APISIX Plugin in Java]]></title>
-        <id>How to Write an Apache APISIX Plugin in Java</id>
+        <title type="html"><![CDATA[使用 Java 编写 Apache APISIX 插件]]></title>
+        <id>使用 Java 编写 Apache APISIX 插件</id>
         <link href="https://apisix.apache.org/blog/2021/06/21/use-Java-to-write-Apache-APISIX-plugins"/>
         <updated>2021-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apache APISIX now supports writing plugins in Java! You can now write plugins in a programming language you are familiar with.]]></summary>
+        <summary type="html"><![CDATA[Apache APISIX 支持多语言编写插件了！不会 Lua 也没关系，现在可以用你熟悉的语言编写插件，文末还有视频教程。]]></summary>
         <author>
-            <name>Zhengsong Tu</name>
+            <name>屠正松</name>
             <uri>https://github.com/tzssangglass</uri>
         </author>
     </entry>
@@ -585,9 +538,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[基于 Apache APISIX 实现的服务网格项目正式开源]]></title>
+        <id>基于 Apache APISIX 实现的服务网格项目正式开源</id>
+        <link href="https://apisix.apache.org/blog/2021/05/31/基于 Apache APISIX 实现的服务网格项目正式开源"/>
+        <updated>2021-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鉴于 Apache APISIX 的优秀设计，我们不仅可以将 Apache APISIX 用于南北向流量管理，也可以用它管理服务网格的东西向流量，我们通过引入 APISIX-Mesh-Agent 这一组件，配合 Apache APISIX 进行使用，从而使得 Apache APISIX 可以对接业内广泛使用的服务网格控制面，例如： Istio 和 Kuma 等。]]></summary>
+        <author>
+            <name>张超</name>
+            <uri>https://github.com/tokers</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apache APISIX 2.6.0-Release 正式发布]]></title>
         <id>Apache APISIX 2.6.0-Release 正式发布</id>
-        <link href="https://apisix.apache.org/blog/2021/05/25/Apache APISIX 2.6.0-Release"/>
+        <link href="https://apisix.apache.org/blog/2021/05/25/Apache APISIX 2.6.0-Release 正式发布"/>
         <updated>2021-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apache APISIX 2.6.0-Release 正式发布！欢迎大家下载使用。]]></summary>
         <author>
@@ -603,6 +567,17 @@
         <summary type="html"><![CDATA[本文整理自腾讯游戏负责内部容器平台的工程师徐鑫在 Apache APISIX Meetup - 深圳站的演讲，通过阅读本文，您不仅可以了解网关是什么、网关模式对传统服务架构的改进，还可以了解腾讯 OTeam 诞生的原因，以及 Apache APISIX 是如何在腾讯内部落地的。]]></summary>
         <author>
             <name>徐鑫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traffic Split in Apache APISIX Ingress Controller]]></title>
+        <id>Traffic Split in Apache APISIX Ingress Controller</id>
+        <link href="https://apisix.apache.org/blog/2021/03/27/traffic-split-in-apache-apisix-ingress-controller"/>
+        <updated>2021-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Traffic Split is a feature that splits and deliveries traffic to multiple backend services. Solutions like API Gateway and Service Mesh are capable of doing traffic splitting and implement functionalities like Canary Release and Blue-Green Deployment.]]></summary>
+        <author>
+            <name>Chao Zhang</name>
+            <uri>https://github.com/tokers</uri>
         </author>
     </entry>
     <entry>
@@ -663,7 +638,7 @@
     <entry>
         <title type="html"><![CDATA[初探 Kubernetes Service APIs]]></title>
         <id>初探 Kubernetes Service APIs</id>
-        <link href="https://apisix.apache.org/blog/2020/12/18/first-look-at-kubernetes-service-api"/>
+        <link href="https://apisix.apache.org/blog/2020/12/18/a-first-look-at-kubernetes-service-api"/>
         <updated>2020-12-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[本文通过提问的方式，对 Kubernetes Service APIs 做了一些基本介绍，从整体来看，Kubernetes Service APIs 提炼了很多 ingress 的最佳实践，比如表达能力的增强，其实就是扩展了 Route 的能力，再比如 BackendPolicy 对象，可以为 upstream 指定几乎所有的 Kubernetes 后端资源。]]></summary>
         <author>
