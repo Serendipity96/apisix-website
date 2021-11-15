@@ -2,11 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apisix.apache.org/zh/blog</id>
     <title>Apache APISIX® --  Cloud-Native API Gateway Blog</title>
-    <updated>2021-10-09T00:00:00.000Z</updated>
+    <updated>2021-11-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://apisix.apache.org/zh/blog"/>
     <subtitle>Apache APISIX® --  Cloud-Native API Gateway Blog</subtitle>
     <icon>https://apisix.apache.org/zh/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[APISIX-Datadog 插件发布，助力用户提高系统的可观测性]]></title>
+        <id>APISIX-Datadog 插件发布，助力用户提高系统的可观测性</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/11/12/apisix-datadog"/>
+        <updated>2021-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache APISIX 最近发布了一个新的插件：APISIX-Datadog，以提供与 Datadog 监控平台的集成。这篇文章介绍了 APISIX-Datadog 插件的实现原理及功能。]]></summary>
+        <author>
+            <name>Bisakh Mondal</name>
+            <uri>https://github.com/bisakhmondal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈 Apache APISIX 的可观测性]]></title>
+        <id>浅谈 Apache APISIX 的可观测性</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/11/04/skywalking"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍了 Apache APISIX 的可观测性能力以及如何通过 Apache SkyWalking 提升Apache APISIX 的可观测性能力。]]></summary>
+        <author>
+            <name>庄浩潮</name>
+            <uri>https://github.com/dmsolr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 如何通过网关层为 Airwallex 数据主权保驾护航]]></title>
+        <id>Apache APISIX 如何通过网关层为 Airwallex 数据主权保驾护航</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/11/03/airwallex-usercase"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文将为大家带来关于 Airwallex 空中云汇是如何使用 Apache APISIX 进行网关层部署来加固数据主权方面的建设。]]></summary>
+        <author>
+            <name>李杨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区周报｜10.15-10.31 功能亮点更新进行中]]></title>
+        <id>社区周报｜10.15-10.31 功能亮点更新进行中</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/11/02/weekly-report-1031"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 扩展指南]]></title>
+        <id>Apache APISIX 扩展指南</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/29/Extension-guide"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文提供了 Apache APISIX 的拓展指南，旨在为用户提供拓展 Apache APISIX 的一些思路。]]></summary>
+        <author>
+            <name>罗泽轩</name>
+            <uri>https://github.com/spacewander</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 0 到 1，APISIX Ingress 加入社区后的发展与收获]]></title>
+        <id>从 0 到 1，APISIX Ingress 加入社区后的发展与收获</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/26/APISIX-Ingress"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文描述了 APISIX Ingress 的成长历程，以及 APISIX Ingress 加入社区后的功能提升与社区帮助等多方面细节收获。]]></summary>
+        <author>
+            <name>金卫</name>
+            <uri>https://github.com/gxthrj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程篇：如何在 Apache APISIX Ingress Controller 中使用 Cert Manager 管理证书]]></title>
+        <id>教程篇：如何在 Apache APISIX Ingress Controller 中使用 Cert Manager 管理证书</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/22/cert-manager-in-ingress"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文将通过详细的代码步骤为大家介绍如何通过 Cert Manager 在 Apache APISIX Ingress Controller 里进行证书管理。]]></summary>
+        <author>
+            <name>张超</name>
+            <uri>https://github.com/tokers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播预告 | Apache APISIX × Apache SkyWalking 线上分享]]></title>
+        <id>直播预告 | Apache APISIX × Apache SkyWalking 线上分享</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/18/meetup"/>
+        <updated>2021-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10 月 23 日，Apache APISIX 社区联合 Apache SkyWalking 社区为大家带来线上分享。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区周报｜10.1-10.14 功能亮点更新进行中]]></title>
+        <id>社区周报｜10.1-10.14 功能亮点更新进行中</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/14/weekly-report-1014"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“独行者速，众行者远”。Apache APISIX 社区周报希望可以帮助社区小伙伴们更好地掌握 Apache APISIX 社区的每周进展，方便大家参与到 Apache APISIX 社区中来。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 社区新里程碑——全球贡献者突破 300 位！]]></title>
+        <id>Apache APISIX 社区新里程碑——全球贡献者突破 300 位！</id>
+        <link href="https://apisix.apache.org/zh/blog/2021/10/13/celebrating-300-contributors-of-apisix"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache APISIX 社区达成新的里程碑，与 Apache APISIX 相关的项目全球贡献者突破 300 位！]]></summary>
+        <author>
+            <name>Apache APISIX 社区</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress]]></title>
         <id>保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress</id>
@@ -147,7 +243,7 @@
         <id>Python 助你快速上手 Apache APISIX 插件开发</id>
         <link href="https://apisix.apache.org/zh/blog/2021/09/06/python-helps-you-quickly-with-Apache-APISIX-development"/>
         <updated>2021-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在 Apache APISIX Python Runner 之前社区中已经支持了 Java]]></summary>
+        <summary type="html"><![CDATA[在 Apache APISIX Python Runner 之前社区中已经支持了 Java 和 Go 语言的 Runner，今天 Python Runner 也来了，社区中的小伙伴们在开发 Apache APISIX 的插件时又多了一种新选择。]]></summary>
         <author>
             <name>帅进超</name>
             <uri>https://github.com/shuaijinchao</uri>
@@ -632,7 +728,7 @@
         <id>Stable Product Delivery with Cypress</id>
         <link href="https://apisix.apache.org/zh/blog/2021/02/08/stable-product-delivery-with-cypress"/>
         <updated>2021-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how Yi Sun, GitHub ID [@LiteSun](https://github.com/LiteSun), Apache APISIX Committer from [Shenzhen Zhiliu Technology Co.](https://www.apiseven.com/), implements stable product delivery with Cypress.]]></summary>
+        <summary type="html"><![CDATA[This article explains how Yi Sun, GitHub ID [@LiteSun](https://github.com/LiteSun), Apache APISIX Committer from [API7.ai](https://www.apiseven.com/), implements stable product delivery with Cypress.]]></summary>
         <author>
             <name>Yi Sun</name>
             <uri>https://github.com/LiteSun</uri>
