@@ -611,6 +611,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/tags/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/docs/dashboard/2.5/tags/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -4711,6 +4716,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/docs/apisix/next/plugins/splunk-hec-logging/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/docs/apisix/next/plugins/syslog/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -4777,6 +4787,71 @@
     </url>
     <url>
         <loc>https://apisix.apache.org/docs/apisix/next/wasm/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/api/api/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/back-end-tests/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/deploy/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/deploy-with-docker/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/deploy-with-rpm/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/develop/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/FAQ/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/front-end-e2e/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/I18N_USER_GUIDE/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/IGNORE_DOC/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/IMPORT_OPENAPI_USER_GUIDE/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/install/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/dashboard/2.10/USER_GUIDE/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
