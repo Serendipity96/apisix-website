@@ -1001,6 +1001,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/releases/2022/1/2/release-apache-apisix-ingress-controller-1.4.0/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/releases/archive/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
