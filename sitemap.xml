@@ -4571,6 +4571,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/docs/apisix/next/plugins/grpc-web/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/docs/apisix/next/plugins/gzip/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
