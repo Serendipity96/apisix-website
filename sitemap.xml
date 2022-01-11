@@ -4561,6 +4561,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/docs/apisix/next/plugins/forward-auth/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/docs/apisix/next/plugins/google-cloud-logging/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
