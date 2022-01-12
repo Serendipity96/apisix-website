@@ -731,6 +731,11 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://apisix.apache.org/docs/java-plugin-runner/0.1/tags/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://apisix.apache.org/docs/java-plugin-runner/next/tags/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -5537,6 +5542,26 @@
     </url>
     <url>
         <loc>https://apisix.apache.org/docs/go-plugin-runner/next/IGNORE_DOC/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/java-plugin-runner/0.1/development/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/java-plugin-runner/0.1/how-it-works/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/java-plugin-runner/0.1/IGNORE_DOC/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://apisix.apache.org/docs/java-plugin-runner/0.1/the-internal-of-apisix-java-plugin-runner/</loc>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
